@@ -1,7 +1,5 @@
 <div align="center" style="background-color: gray; padding: 20px; border-radius: 10px;">
 
-# Welcome to My GitHub Profile!
-
 
 [![falberti's 42 stats](https://badge.mediaplus.ma/water/falberti?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/falberti)
 
