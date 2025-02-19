@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**42Floriano/42Floriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Floriano** 👋🏼🤓
+I am a learning developer at **42Lausanne** with a penchant for simple but efficient design.
 
-Here are some ideas to get you started:
+### I'm [Your Name] 🚀
+I'm a passionate developer from **[Your Country]** with a love for **[Your Interests]**! I enjoy building cool projects, learning new technologies, and collaborating with others in the open-source community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+
+- 🎮 Currently working on **[Your Current Project]**
+- 🌱 Learning **[Your Learning Focus]**
+- 💬 Ask me about **[Your Expertise]**
+- 📫 How to reach me: **[Your Contact Info]**
+- 😄 Fun Fact: **[Something Interesting About You]**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+
+---
+
+## 🌎 Connect With Me
+
+📧 **Email**: floriano.webdev@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/floriano-albertini/)
+
+---
+
+### ✨ Thanks for stopping by! Have an amazing day! 🚀
+
