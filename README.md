@@ -1,4 +1,4 @@
-<div align="center" style="background-color: gray; padding: 20px; ">
+<div align="center" padding: 20px; ">
 
 <h1 align="center" style="font-family: Helvetica; font-size: 70px;"> Welcome ! </h1>
 
